@@ -36,5 +36,7 @@ The Humidity IoT System is designed to monitor humidity levels in real-time. Dat
 - **Additional Python libraries**: `Flask-CORS`, `requests`
 
 ## Documentation
+- **IoT Network**
 ![IoT](media/Rangkaian-IoT.jpg)
+- **Output POST Method**
 ![Output](media/output.jpg)
