@@ -8,6 +8,7 @@ This repository contains the source code and documentation for the Humidity IoT 
 - [Features](#features)
 - [Hardware Requirements](#hardware-requirements)
 - [Software Requirements](#software-requirements)
+- [Documentation](#documentation)
 
 ## Introduction
 
@@ -33,3 +34,7 @@ The Humidity IoT System is designed to monitor humidity levels in real-time. Dat
 - **Flask**
 - **Arduino IDE**
 - **Additional Python libraries**: `Flask-CORS`, `requests`
+
+## Documentation
+![IoT](media/Rangkaian-IoT.jpg)
+![Output](media/output.jpg)
